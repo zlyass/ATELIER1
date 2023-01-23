@@ -1,4 +1,4 @@
-# Fonction qui calcul la factorielle d'un nombre donné
+# Fonction qui calcule la factorielle d'un nombre donné
 def factorielle(n):
     if(n > 0):
         fact = 1
