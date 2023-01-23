@@ -1,4 +1,4 @@
-# La fonction qui convertir le nombre decimal en nombre binaire
+# La fonction qui convertit le nombre decimal en nombre binaire
 
 def decimalToBinary(n):
     if n == 0:
